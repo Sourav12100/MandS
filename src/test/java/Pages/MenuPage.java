@@ -12,7 +12,7 @@ public class MenuPage {
     public void login() throws InterruptedException {
         driver.manage().window().maximize();
         Thread.sleep(5000);
-    
+
     }
 }
 
